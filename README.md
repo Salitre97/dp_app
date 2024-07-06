@@ -1,5 +1,5 @@
 # dp_app
-<<<<<<< HEAD
+
 Development of the cross-platform application for the Senior Design project DPLOCK.
 =======
 
@@ -17,4 +17,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> f85d3be (Initial commit)
+
